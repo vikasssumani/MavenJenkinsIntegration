@@ -12,5 +12,10 @@ public class JenkinsMavenClassTest {
 	public void test() {
 		System.out.println("This is Jenkins Maven GIT Integration Project");
 	}
+	
+	@Test
+	public void test1() {
+		System.out.println("This is Jenkins Maven GIT Integration Project test1");
+	}
 
 }
